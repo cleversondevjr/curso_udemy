@@ -1,6 +1,9 @@
+body{
+    background-color: grey;
+}
 .botao_entrar {
     background: green;
 }
 .botao_sair {
-    background: #00f;
+    background: red;
 }
